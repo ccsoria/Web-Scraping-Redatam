@@ -1,2 +1,2 @@
 # Web-Scraping-Redatam
- 
+Web Scraping de Redatam. El objetivo del documento es descargar información sobre el Censo Agropecuario 1994 del Perú. El código permite descargar un cuadro que tiene información sobre los cultivos transitorios a nivel distrital, pero es posible modificar el código para obtener más variables. El código es útil para explorar el funcionamiento de otros datos publicados en la plataforma Redatam, debido a que la estructura de la página web es relativamente homogénea.
